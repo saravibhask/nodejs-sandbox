@@ -2,4 +2,5 @@ console.log("Hello!");
 var a = 1;
 console.log(a);
 
-console.log();
+//Code snippet added after configuring Git
+console.log("Code added after configuring Git");
