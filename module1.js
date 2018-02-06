@@ -7,3 +7,5 @@ console.log(b);
 console.log(_);
 
 console.log("...data");
+
+console.log("Commiting after checkout...");
